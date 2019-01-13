@@ -13,15 +13,11 @@
 | ROS | ROS kinetic |
 ```
 ## 動画URL
-https://youtu.be/A2Mm7umCyK0
+https://youtu.be/MmWEArIUC1c
 
 ##  実行方法
 ```
-$ git clone https://github.com/KentaKawamata/robosys2018_usingROS.git
-$ cd robosys2018_usingROS
-$ roslaunch LED LED.launch
+$ git clone https://github.com/yutaroiida/kadai2.git
+$ roslaunch mypkg mypkg.launch
 ```
-LEDを点灯させる．
-`$ echo 1 > /dev/myled0`
-LEDを消灯させる．
-`$ echo 1 > /dev/myled0`
+
