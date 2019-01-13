@@ -20,4 +20,8 @@ https://youtu.be/MmWEArIUC1c
 $ git clone https://github.com/yutaroiida/kadai2.git
 $ roslaunch mypkg mypkg.launch
 ```
+## 内容
+raspberry Pie でカウントえお実行して, ブラウザ上でカウントを確認する.
+#### ブラウザで確認する方法．
 
+ブラウザにて`http://<Raspberry PiのIPアドレス>:8000`と入力.
